@@ -1,7 +1,7 @@
 # Optimizing Customer Engagement through RFM Segmentation and Analysis
 
 In retail, understanding customer behavior and keeping customers engaged is crucial for crafting effective marketing strategies and critical for business success. RFM segmentation is a powerful customer analytics technique that helps businesses understand their customer base and develop targeted marketing strategies to boost engagement and loyalty. This project aims to delve deep into customer data to uncover valuable insights and enhance customer engagement.
-
+The dataset used can be downloaded from [kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 ## Project Goal
 
 The primary goal of this project is to optimize marketing strategies and improve customer engagement for a retail company. This was achieved by conducting hypothesis tests and segmentation analyses to reveal insights into customer behavior and preferences.
